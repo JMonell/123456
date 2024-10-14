@@ -1,0 +1,14 @@
+c:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\bin\Debug\net8.0\collections_fun1.exe
+c:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\bin\Debug\net8.0\collections_fun1.deps.json
+c:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\bin\Debug\net8.0\collections_fun1.runtimeconfig.json
+c:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\bin\Debug\net8.0\collections_fun1.dll
+c:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\bin\Debug\net8.0\collections_fun1.pdb
+c:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\obj\Debug\net8.0\collections_fun1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\obj\Debug\net8.0\collections_fun1.AssemblyInfoInputs.cache
+c:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\obj\Debug\net8.0\collections_fun1.AssemblyInfo.cs
+c:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\obj\Debug\net8.0\collections_fun1.csproj.CoreCompileInputs.cache
+c:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\obj\Debug\net8.0\collections_fun1.dll
+c:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\obj\Debug\net8.0\refint\collections_fun1.dll
+c:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\obj\Debug\net8.0\collections_fun1.pdb
+c:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\obj\Debug\net8.0\collections_fun1.genruntimeconfig.cache
+c:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\obj\Debug\net8.0\ref\collections_fun1.dll
