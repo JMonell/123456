@@ -12,3 +12,8 @@ c:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\obj\De
 c:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\obj\Debug\net8.0\collections_fun1.pdb
 c:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\obj\Debug\net8.0\collections_fun1.genruntimeconfig.cache
 c:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\obj\Debug\net8.0\ref\collections_fun1.dll
+C:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\bin\Debug\net8.0\seedGenerator.dll
+C:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\bin\Debug\net8.0\seedGenerator.pdb
+C:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\obj\Debug\net8.0\collections_fun1.csproj.AssemblyReference.cache
+C:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\obj\Debug\net8.0\collections_fun1.sourcelink.json
+C:\Users\joarm\development\projects\OPG\MyRepos\scratch2\collections_fun1\obj\Debug\net8.0\collecti.49FA7399.Up2Date

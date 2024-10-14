@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Seido.Utilities.SeedGenerator/1.0.5": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Seido.Utilities.SeedGenerator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Seido.Utilities.SeedGenerator.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Seido.Utilities.SeedGenerator/1.0.5": {
+      "type": "project",
+      "path": "../seedGenerator/seedGenerator.csproj",
+      "msbuildProject": "../seedGenerator/seedGenerator.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Seido.Utilities.SeedGenerator >= 1.0.5"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\joarm\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\joarm\\development\\projects\\OPG\\MyRepos\\scratch2\\seedGenerator\\seedGenerator.csproj": {
+              "projectPath": "C:\\Users\\joarm\\development\\projects\\OPG\\MyRepos\\scratch2\\seedGenerator\\seedGenerator.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

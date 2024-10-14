@@ -1,17 +1,81 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\joarm\\development\\projects\\OPG\\MyRepos\\scratch2\\collections_fun1\\collections_fun1.csproj": {}
+    "C:\\Users\\joarm\\development\\projects\\OPG\\MyRepos\\scratch2\\collections_fun1\\collections_fun1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\joarm\\development\\projects\\OPG\\MyRepos\\scratch2\\collections_fun1\\collections_fun1.csproj": {
+    "C:\\Users\\joarm\\development\\projects\\OPG\\MyRepos\\scratch2\\collections_fun1\\collections_fun1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\joarm\\development\\projects\\OPG\\MyRepos\\scratch2\\collections_fun1\\collections_fun1.csproj",
+        "projectUniqueName": "C:\\Users\\joarm\\development\\projects\\OPG\\MyRepos\\scratch2\\collections_fun1\\collections_fun1.csproj",
         "projectName": "collections_fun1",
-        "projectPath": "c:\\Users\\joarm\\development\\projects\\OPG\\MyRepos\\scratch2\\collections_fun1\\collections_fun1.csproj",
+        "projectPath": "C:\\Users\\joarm\\development\\projects\\OPG\\MyRepos\\scratch2\\collections_fun1\\collections_fun1.csproj",
         "packagesPath": "C:\\Users\\joarm\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\joarm\\development\\projects\\OPG\\MyRepos\\scratch2\\collections_fun1\\obj\\",
+        "outputPath": "C:\\Users\\joarm\\development\\projects\\OPG\\MyRepos\\scratch2\\collections_fun1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joarm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\joarm\\development\\projects\\OPG\\MyRepos\\scratch2\\seedGenerator\\seedGenerator.csproj": {
+                "projectPath": "C:\\Users\\joarm\\development\\projects\\OPG\\MyRepos\\scratch2\\seedGenerator\\seedGenerator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\joarm\\development\\projects\\OPG\\MyRepos\\scratch2\\seedGenerator\\seedGenerator.csproj": {
+      "version": "1.0.5",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joarm\\development\\projects\\OPG\\MyRepos\\scratch2\\seedGenerator\\seedGenerator.csproj",
+        "projectName": "Seido.Utilities.SeedGenerator",
+        "projectPath": "C:\\Users\\joarm\\development\\projects\\OPG\\MyRepos\\scratch2\\seedGenerator\\seedGenerator.csproj",
+        "packagesPath": "C:\\Users\\joarm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joarm\\development\\projects\\OPG\\MyRepos\\scratch2\\seedGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joarm\\AppData\\Roaming\\NuGet\\NuGet.Config",
